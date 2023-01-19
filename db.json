@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Apple"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Meta"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Vicentin"
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "Java",
+      "email": "Pedro@Gmail.com",
+      "telefono": "1253123536",
+      "notas": "Prueba",
+      "id": 6
+    }
+  ]
+}
